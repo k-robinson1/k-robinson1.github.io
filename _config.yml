@@ -21,7 +21,8 @@ use_math:
 google_analytics:
 
 # Everything below here can be ignored, unless you want to change the theme entirely
-remote_theme: pages-themes/architect@v0.2.0
+#remote_theme: pages-themes/architect@v0.2.0
+theme: minimal
 plugins:
   - jekyll-feed
   - jekyll-gist
