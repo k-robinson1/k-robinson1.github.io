@@ -1,7 +1,4 @@
----
-title: "Hello!"
----
-
+# Hello!
 # Hello!
 
 This is my first post. I haven't yet started the *fastai* course, but my goals for the course are:
